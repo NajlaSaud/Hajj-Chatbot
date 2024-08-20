@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is a Gradio-based web application that interacts with the OpenAI GPT-3.5 Turbo model to provide real-time assistance for pilgrims during Hajj and Umrah. The application is designed to answer questions in Arabic, specifically related to Hajj, Umrah, and the holy cities of Makkah and Madinah. The model responds in Arabic and focuses on providing guidance relevant to the religious context.
+This project is a Gradio-based web application that interacts with the OpenAI GPT-3.5 Turbo model to provide real-time assistance for pilgrims during Hajj and Umrah. The application is designed to answer questions in Arabic, specifically related to Hajj, Umrah, and the cities of Makkah and Madinah. 
 
 ## Features
 
